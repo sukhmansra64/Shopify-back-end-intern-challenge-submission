@@ -1,11 +1,11 @@
 # shopify backend challenge
- My submission to the shopify backend intern challenge for 2022, the extra feature I added was the ability to create shipments and adding items, and hopefully fully functioning error testing.  
- to said shipment the challenge is found here at: https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/edit, *PLEASE NOTE 
- THAT WHERE EVER (BRACKETS) ARE USED, YOU ARE SUPPOSED TO ADD WHAT THE BRACKETS DESCRIBE AND NOT THE BRACKETS THEMSELVES, ESPECIALLY WITH THE URL REQUETS*
+ My submission to the Shopify backend intern challenge for 2022, the extra feature I added was the ability to create shipments and add items, and hopefully fully functioning error testing.  
+ to said shipment, the challenge is found here at: https://docs.google.com/document/d/1z9LZ_kZBUbg-O2MhZVVSqTmvDko5IJWHtuFmIu_Xg1A/edit, *PLEASE NOTE 
+ THAT WHERE EVER (BRACKETS) ARE USED, YOU ARE SUPPOSED TO ADD WHAT THE BRACKETS DESCRIBE AND NOT THE BRACKETS THEMSELVES, ESPECIALLY WITH THE URL REQUESTS*
 
 # How to use
 download the repository and run "npm start" in the terminal of the directory of the program, the server should be running at http://localhost:8000 
-the best way to utilze this program is by using Postman, or a similar application which can make http requests along with sending raw JSON data to an 
+the best way to utilize this program is by using Postman, or a similar application that can make HTTP requests along with sending raw JSON data to an 
 API (CONTENT TYPE FOR REQUESTS WHICH SEND JSON DATA IS application/json)
 
 ## Simple tasks 
