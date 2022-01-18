@@ -8,9 +8,9 @@ download the repository and run "npm start" in the terminal of the directory of 
 the best way to utilze this program is by using Postman, or a similar application which can make http requests along with sending raw JSON data to an 
 API (CONTENT TYPE FOR REQUESTS WHICH SEND JSON DATA IS application/json)
 
-##Simple tasks 
+## Simple tasks 
 
-#test to see if server is working 
+# test to see if server is working 
 Run a get request at http://localhost:8000
 
 ## Inventory tasks 
@@ -25,7 +25,7 @@ to create an item make a POST request at http://localhost:8000/api/inventory and
     "Description": "(Any description)"
 }
 
- #Update an Inventory Item
+ # Update an Inventory Item
  Make a POST request at http://localhost:8000/api/inventory/(ITEM ID) where (ITEM ID) is used as parameters for the route
  
   # Delete an Inventory Item
