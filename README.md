@@ -45,8 +45,8 @@ to create an shipment make a POST request at http://localhost:8000/api/shipment 
 }
 
  # Delete a shipment
- Make a DELETE request at http://localhost:8000/api/shipment/<shipment ID> where <shipment ID> is used as parameters for the route
+ Make a DELETE request at http://localhost:8000/api/shipment/(shipment ID) where (shipment ID) is used as parameters for the route
  
  # Add an item to the shipment
- Make a POST request at http://localhost:8000/api/shipment/<Shipment ID>/<Item ID> where <shipment ID> & <Item ID> are used as parameters for the route
+ Make a POST request at http://localhost:8000/api/shipment/(Shipment ID)/(Item ID) where (shipment ID) & (Item ID) are used as parameters for the route
  
